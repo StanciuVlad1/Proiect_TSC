@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-06T15:54:07Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "OpenBook Schematic v14"
+        },
+        "Owner": "Vlad-Mihai Stanciu <vlad_mihai.stanciu@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.2
+        }
+    }
+}
